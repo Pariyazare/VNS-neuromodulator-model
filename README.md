@@ -1,5 +1,4 @@
 # VNS-neuromodulator-model
-MATLAB code for modeling VNS-induced neuromodulator dynamics and predicting stimulation parameters associated with cortical plasticity.
 
 This repository contains MATLAB code for a mathematical model used to simulate neuromodulator dynamics in response to different vagus nerve stimulation (VNS) parameters.
 
