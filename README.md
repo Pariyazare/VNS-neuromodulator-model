@@ -23,8 +23,6 @@ The model is used to compare tested VNS conditions and predict additional parame
 ## Main outputs
 
 - Simulated neuromodulator response over time
-- Peak neuromodulator activity
-- Time spent within the predicted plasticity-effective range
 - Comparison of effective and ineffective VNS parameter sets
 
 ## How to use
