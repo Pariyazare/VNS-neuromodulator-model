@@ -22,7 +22,7 @@ The model is used to compare tested VNS conditions and predict additional parame
 ## Main outputs
 
 - Simulated neuromodulator response over time
-- Comparison of effective and ineffective VNS parameter sets
+- Plots of effective and ineffective VNS parameter sets
 
 ## How to use
 
